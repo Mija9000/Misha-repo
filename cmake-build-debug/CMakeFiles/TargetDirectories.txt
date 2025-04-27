@@ -1,0 +1,3 @@
+/home/misha/CLionProjects/Git_first/cmake-build-debug/CMakeFiles/Git_first.dir
+/home/misha/CLionProjects/Git_first/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/misha/CLionProjects/Git_first/cmake-build-debug/CMakeFiles/rebuild_cache.dir
